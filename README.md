@@ -1,0 +1,4 @@
+Nyquist
+=======
+
+Calculate Nyquist bandwidth
